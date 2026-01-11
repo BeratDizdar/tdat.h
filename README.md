@@ -1,2 +1,2 @@
 # tdat.h
-Texture Data Format Library
+Single Header - RGBA Texture Data Format Library
